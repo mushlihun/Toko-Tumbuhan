@@ -1,4 +1,4 @@
-# Plant App - Flutter UI
+# Toko Tumbuhan - Flutter UI
 
 ## [Watch it on YouTube](https://youtu.be/LN668OAUrK4)
 
